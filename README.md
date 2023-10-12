@@ -6,3 +6,6 @@ but i'm interested in CSS and HTML programming language.
 
 * Python(Basic)
 * C++(Basic)
+* HTML (Basic)
+* CSS (Basic)
+* JavaScript(New)
