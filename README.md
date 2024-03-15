@@ -8,4 +8,4 @@ but i'm interested in CSS and HTML programming language.
 * C++(Basic)
 * HTML (Basic)
 * CSS (Basic)
-* JavaScript(New)
+* JavaScript(Basic)
