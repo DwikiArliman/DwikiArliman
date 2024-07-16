@@ -4,16 +4,16 @@ My Name is Dwiki Arliman I'm currently 22 years old and I live in Indonesia. I l
 but i'm interested in CSS and HTML programming language.
 ### Skills
 
-* Python(Basic)
+* Python (Basic)
 * PHP (Basic)
 * HTML (Intermediate)
 * CSS (Intermediate)
-* JavaScript(Basic)
+* JavaScript (Basic)
 
 ### Framework
-* Bootstrap(Intermediate)
-* Tailwind CSS(Basic)
-* Laravel(Basic)
+* Bootstrap (Intermediate)
+* Tailwind CSS (Basic)
+* Laravel (Basic)
 ### Other Skills
 * Figma
 * Canva
