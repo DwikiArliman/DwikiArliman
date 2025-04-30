@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Dwiki Arliman I'm currently 22 years old and I live in Indonesia. I love playing games,right now i focused on website development/front-end engineer.
+My Name is Dwiki Arliman I'm currently 22 years old. I love playing games,right now i focused on website development/front-end engineer and also Quality Assurance.
 ### Skills
 
 * Python (Beginner)
@@ -9,6 +9,7 @@ My Name is Dwiki Arliman I'm currently 22 years old and I live in Indonesia. I l
 * CSS (Intermediate)
 * JavaScript (Beginner)
 * Wordpress (Beginner)
+* Katalon Studio (Beginner)
 
 ### Framework
 * Bootstrap (Intermediate)
